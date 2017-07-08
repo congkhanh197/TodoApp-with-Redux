@@ -2,9 +2,7 @@ import React, {
   Component
 } from 'react';
 import './App.css';
-import {
-  createStore
-} from 'redux'
+import { createStore } from 'redux'
 //import App from './components/App'
 import reducer from './reducers'
 
